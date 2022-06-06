@@ -22,22 +22,3 @@ Bonus
 </h3>
 
 > <i>The <b>bonus</b> part must behave like the mandatory part but adding up functionality to handle multiple file descriptors opened at once. The bonus function must also deal with only one static variable.</i>
-
----
-
-<h2>
-The project
-</h2>
-
-### Mandatory implementation
-
-- [`header file`](get_next_line.h)
-- [`get_next_line`](get_next_line.c)	- the main function and its additionals
-- [`get_next_line_utils`](get_next_line_utils.c)	- additional functions from [`libft`](https://github.com/caroldaniel/42sp-cursus-libft)
-
-### Bonus implementation
-
-- [`header file`](get_next_line_bonus.h)
-- [`get_next_line_bonus`](get_next_line_bonus.c)	- the main function and its additionals
-- [`get_next_line_utils_bonus`](get_next_line_utils_bonus.c)	- additional functions from [`libft`](https://github.com/caroldaniel/42sp-cursus-libft)
-
